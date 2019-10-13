@@ -184,13 +184,13 @@ msgstr "Beperk de TAG-resultaten tot"
 
 #: settings.xml
 msgctxt "#30034"
-msgid "(WIP)Series Vote after completing it"
-msgstr "(OHW) Reeksstemming na het voltooien ervan"
+msgid "Series Vote after completing it"
+msgstr "Reeksstemming na het voltooien ervan "
 
 #: settings.xml
 msgctxt "#30035"
-msgid "(WIP)Enable voting for Trakt"
-msgstr "(WIP) Stemming voor Trakt inschakelen"
+msgid "Enable voting for Trakt"
+msgstr "Stemming voor Trakt inschakelen "
 
 #: settings.xml
 msgctxt "#30036"
@@ -902,6 +902,18 @@ msgstr "Afgewerkt"
 msgctxt "#30183"
 msgid "You already finished this."
 msgstr "Je hebt dit al gedaan."
+
+#: settings.xml
+msgctxt "#30184"
+msgid "Suggest Series rating based on ep rating"
+msgstr "Stel een serieclassificatie voor op basis van ep-classificatie"
+
+#: settings.xml
+msgctxt "#30185"
+msgid "Require all Episodes being rated before suggesting"
+msgstr ""
+"Vereisen dat alle afleveringen worden beoordeeld voordat ze worden "
+"voorgesteld"
 
 #: shoko_utils.py
 msgctxt "#30189"
